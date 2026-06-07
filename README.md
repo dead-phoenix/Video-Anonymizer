@@ -136,7 +136,6 @@ The app, model weights (`/models`), and a README are distributed together as a s
 
 - **Client**: [Volta Medical](https://www.volta-medical.com/) — an AI-driven cardiac electrophysiology company (FDA-cleared, CE-marked)
 - **Institution**: École Centrale Méditerranée
-- **Team**: Antoine Deparday, Akshita Rai, Tanisha Thapa, Saad Jelbini
 - **Supervisors**: Anne-Laure Mealier, Thomas Boudier
 - **Year**: 2024
 
